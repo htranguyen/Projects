@@ -8,7 +8,7 @@ During my studies, I've had the chance to dive deep into complex data, honing my
 
 This portfolio is my way of showcasing what I can do and keeping track of my journey in the data analytics field. Let's dive in! 😄📊🚀
 
-[My Resume](Tra-Nguyen_Resume.pdf).
+[Here's my resume](Tra-Nguyen_Resume.pdf).
 
 ## List of Projects and Skills
 
