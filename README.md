@@ -2,39 +2,29 @@
 <a name="about"></a>
 ## About me
 
-Hello 👋 I'm Tra. I currently completing MSc Business Analytics at Babson College. I have developed a strong foundation in analytics, strategy, and a passion for leveraging data to discover meaningful insights. 
+Hey there! I'm Tra, currently on my journey to complete my MSc in Business Analytics at Babson College. My time here has been all about building a solid foundation in analytics and strategy, and I've got a real passion for using data to dig up those hidden insights.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in consulting, strategic finance and pricing, data management, and statistical analysis, which I believe will be valuable assets in my role in helping businesses make informed decisions backed by data.
+During my studies, I've had the chance to dive deep into complex data, honing my knack for spotting patterns and trends. I've also gained practical experience in consulting, strategic finance, pricing strategies, data management, and statistical analysis, all of which I believe will prove invaluable in my endeavor to assist businesses in making well-informed, data-driven decisions.
 
-I am excited to bring my technical and analytical skills to the domain of data analytics.
+This portfolio is my way of showcasing what I can do and keeping track of my journey in the data analytics field. Let's dive in! 😄📊🚀
 
-My Resume [Tra-Nguyen_Resume.pdf](Tra-Nguyen_Resume.pdf).
+[My Resume](Tra-Nguyen_Resume.pdf).
 
-This repository serves as a platform to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+## List of Projects
 
-## Table of Contents
+- [Descriptive statistics and predictive modelling using R](#R)
+  - [House Prices Forecast - Advanced Regression Techniques (Machine Learning Project)](#houseprice)
 
-- [About](#about)
-
-- [Portfolio Projects](#portfolio-projects)
-  - R
-    - [Bikeshare Rider Volume Forecast (Machine Learning Project)](#bikeshare)
-  - SQL
-    - Covid 19 Data Exploration
-    - Nashville Housing Data Cleaning
-  - Excel / Google Sheets
-  - [Tableau](https://public.tableau.com/app/profile/tung.le1094)
-  
-- Education
-
-- Certificates
+- [Data visualization using Tableau](#Tableau)
+  - [My Tableau Public](https://public.tableau.com/app/profile/tra.nguyen4620)
+ 
+- Data extraction and transformation using SQL
 
 - Contact
+  - Email: ng.huongtra202@gmail.com
 
-<a name="portfolio-projects"></a>
-## Portfolio Projects
-In this section I will briefly list data analytics projects describing the technology stack used to solve cases.
-<a name="bikeshare"></a>
+## Project Details
+<a name="houseprice"></a>
 ### Bikeshare Rider Volume Forecast
 **Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
 
