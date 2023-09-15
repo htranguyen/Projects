@@ -10,7 +10,7 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 
 [My Resume](Tra-Nguyen_Resume.pdf).
 
-## List of Projects
+## List of Projects and Skills
 
 - Descriptive statistics and predictive modelling using R
   - [House Prices Prediction - Advanced Regression Techniques (Machine Learning Project)](#houseprice)
@@ -25,7 +25,7 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 
 ## Project Details
 <a name="houseprice"></a>
-### House Prices Prediction
+### 1. House Prices Prediction
 **Code:** [House Prices Prediction.R](House Price Prediction_Code.R)
 
 **Goals:** 
