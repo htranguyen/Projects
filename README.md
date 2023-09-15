@@ -12,10 +12,10 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 
 ## List of Projects
 
-- [Descriptive statistics and predictive modelling using R](#R)
-  - [House Prices Forecast - Advanced Regression Techniques (Machine Learning Project)](#houseprice)
+- Descriptive statistics and predictive modelling using R
+  - [House Prices Prediction - Advanced Regression Techniques (Machine Learning Project)](#houseprice)
 
-- [Data visualization using Tableau](#Tableau)
+- Data visualization using Tableau
   - [My Tableau Public](https://public.tableau.com/app/profile/tra.nguyen4620)
  
 - Data extraction and transformation using SQL
@@ -25,21 +25,19 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 
 ## Project Details
 <a name="houseprice"></a>
-### Bikeshare Rider Volume Forecast
-**Code:** [Bikeshare Rider Volume Forecast.R](https://github.com/tungble/Machine-Learning-in-R/blob/d700dc991641a42c4055539eb8a6e9b34d27cc4b/Bikeshare%20Rider%20Volume%20Forecast.R)
+### House Prices Prediction
+**Code:** [House Prices Prediction.R](House Price Prediction_Code.R)
 
 **Goals:** 
-1. Determine what factors contribute the most to ridership volume
-2. Forecast ridership volume
+1. Feature engineering
+2. Predict house prices using advanced regression techniques and stacked models
 
-**Description:** The project focused on analyzing a dataset of bikeshare ridership from January 2011 through December 2012. The dataset included season, holiday, workingday, weathear, temperature, humidity, windspeed, ridership type, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), performing multivariate analysis to analyze the correlation between external factors and ridership types, and forecasting rider volume using 4 ML algorithms: linear regression, regression tree, knn regression, and ensemble learning. 
+**Description:** The project focused on analyzing a dataset of 79 explanatory variables describing every aspect of residential homes in Ames, Iowa. This project encompassed a comprehensive analysis of residential property data, involving data preparation, exploratory analysis, multivariate analysis, and machine learning to predict house prices accurately.
+4 machine learning algorithms employed: linear regression, regression tree, neural networks, and ensemble learning.
 
-**Skills:** data cleaning, data analysis, multivariate analysis, hypothesis testing, machine learning, data visualization.
-
-**Technology:** R, lubridate, caret, rpart, rpart.plot, Metrics.
+**Skills:** data cleaning, feature engineering, data analysis, multivariate analysis, hypothesis testing, benchmarking, machine learning, data visualization.
 
 **Results:** 
-
-Using ML algorithms the analysis revealed that time is the strongest predictor of ridership, 
-
-votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+- I conducted data cleaning for improved model efficiency and accuracy, addressing "NAs" and unnecessary variables. This reduced mean absolute percentage errors for linear regression and regression tree models.
+- The neural network model performed poorly with a high RMSE and MAPE.
+- My ensemble model, combining linear regression, regression tree, and neural network, achieved the best RMSE and MAPE results, enhancing prediction accuracy.
