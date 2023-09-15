@@ -26,7 +26,7 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 ## Project Details
 <a name="houseprice"></a>
 ### 1. House Prices Prediction
-**Code:** [House Prices Prediction.R](House Price Prediction_Code.R)
+**Code:** [House Prices Prediction.R](https://github.com/trahnguyen/Codes/blob/81feb2b02a4a77348dd95cd5b476ad96883389ab/House%20Price%20Prediction_Code.R)
 
 **Goals:** 
 1. Feature engineering
