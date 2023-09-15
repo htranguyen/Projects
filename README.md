@@ -8,7 +8,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 I am excited to bring my technical and analytical skills to the domain of data analytics.
 
-My Resume (TungLe_resume.pdf).
+My Resume [Tra-Nguyen_Resume.pdf](Tra-Nguyen_Resume.pdf).
 
 This repository serves as a platform to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
