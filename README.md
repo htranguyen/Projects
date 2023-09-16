@@ -6,7 +6,7 @@ Hey there! I'm Tra, currently on my journey to complete my MSc in Business Analy
 
 During my studies, I've had the chance to dive deep into complex data, honing my knack for spotting patterns and trends. I've also gained practical experience in consulting, strategic finance, pricing strategies, data management, and statistical analysis, all of which I believe will prove invaluable in my endeavor to assist businesses in making well-informed, data-driven decisions.
 
-This portfolio is my way of showcasing what I can do and keeping track of my journey in the data analytics field. Let's dive in! 😄📊🚀
+This portfolio is my way of showcasing what I can do and keeping track of my journey in the data analytics field. Let's dive in! 📊🚀
 
 [Here's my resume](Tra-Nguyen_Resume.pdf).
 
@@ -14,6 +14,7 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 
 - Descriptive statistics and predictive modelling using R
   - [House Prices Prediction - Advanced Regression Techniques (Machine Learning Project)](#houseprice)
+  - [Airbnb New User Booking Location Prediction (Machine Learning Project)](#airbnb)
 
 - Data visualization using Tableau
   - [My Tableau Public](https://public.tableau.com/app/profile/tra.nguyen4620)
@@ -35,9 +36,24 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 **Description:** The project focused on analyzing a dataset of 79 explanatory variables describing every aspect of residential homes in Ames, Iowa. This project encompassed a comprehensive analysis of residential property data, involving data preparation, exploratory analysis, multivariate analysis, and machine learning to predict house prices accurately.
 4 machine learning algorithms employed: linear regression, regression tree, neural networks, and ensemble learning.
 
-**Skills:** data cleaning, feature engineering, data analysis, multivariate analysis, hypothesis testing, benchmarking, machine learning, data visualization.
-
 **Results:** 
 - I conducted data cleaning for improved model efficiency and accuracy, addressing "NAs" and unnecessary variables. This reduced mean absolute percentage errors for linear regression and regression tree models.
 - The neural network model performed poorly with a high RMSE and MAPE.
 - My ensemble model, combining linear regression, regression tree, and neural network, achieved the best RMSE and MAPE results, enhancing prediction accuracy.
+
+<a name="airbnb"></a>
+### 2. Airbnb New User Booking Location Prediction
+**Code:** [Airbnb New User Bookings.R](https://github.com/trahnguyen/Codes/blob/1cdc0dcb28aee2619cc6f0ca5ecf599717c8657f/Airbnb.R)
+**Slide deck:** [Airbnb New User Booking Model Results](https://www.canva.com/design/DAFujFboeaQ/6xI6QjbtAJ8MkD8YNBA7ew/view?utm_content=DAFujFboeaQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+**Goals:** 
+1. Data imbalance solutions
+2. Predict new bookings locations using decision trees and boosting
+
+**Description:** The core objective of this project was to enhance user experience by predicting the initial booking destinations of new users. This prediction serves multiple purposes, including the delivery of tailored content to the Airbnb community, reducing the average time it takes for users to make their first booking, and enhancing demand forecasting accuracy. The project utilized decision tree and boosting techniques to forecast new booking locations.
+
+**Results:** 
+- Challenges Addressed: The dataset had imbalances in certain variables, and the Session dataset covered only 35% of the training data.
+- Key Findings: The primary booking destinations were 'NDF' and the United States. User age and sign-up method were identified as key factors influencing booking destinations.
+- Recommendations: Based on model results, improvements are needed for more accurate predictions in future Airbnb user bookings analysis. 
+In summary, this analysis informs on predicting Airbnb user booking destinations, highlighting data cleaning and the role of age and sign-up method while suggesting areas for future enhancements.
