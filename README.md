@@ -57,3 +57,16 @@ This portfolio is my way of showcasing what I can do and keeping track of my jou
 - Key Findings: The primary booking destinations were 'NDF' and the United States. User age and sign-up method were identified as key factors influencing booking destinations.
 - Recommendations: Based on model results, improvements are needed for more accurate predictions in future Airbnb user bookings analysis. 
 In summary, this analysis informs on predicting Airbnb user booking destinations, highlighting data cleaning and the role of age and sign-up method while suggesting areas for future enhancements.
+
+### 3. Junk Removal Company Operational Analysis & Optimization
+**Code:** [Data Cleaning and Transformation.R](https://github.com/trahnguyen/Codes/blob/ec6c2d819e74a979c58fa94dbb6b992fb0534fe5/Junk%20Removal%20Company%20Operations%20Analysis%20%26%20Optimization)
+
+**Goals:** Implement an optimized staff allocation system for efficient scheduling based on job distances and service types.
+
+**Description:** 3-month project consulting a junk removal company operating in 2 states. Worked with the CEO to identify 3 key business problems. Performed data preprocessing, cleaning, and consolidation of the company's OMS, marketing data (social media, calls and leads records), and financial data. Conducted exploratory data analysis (EDA) and integrated them with field service KPIs to assess operational efficacy and areas for enhancement. Utilized R and text-processing packages to automate data cleaning process, eliminating manual errors. Compiled a report and presented to the founder with 4 strategic recommendations.
+
+**Skills:** data cleaning, text-processing, data transformation, aggreagate functions, join functions, route optimization, performance measurement, data visualization.
+
+**Technology:** R, tidyverse, dplyr, tidyr, tidygeocoder, stringr, psych, textclean, qdapRegex, Hmisc, lavaan, lubridate, geosphere, readxl, magrittr
+
+**Results:** Increase revenue by $300K+ annually through enhanced staffing, scheduling, and routing strategies, enabling at least one additional field service trip per day. Devised a method to increase projected growth by 124% without requiring additional resources.
